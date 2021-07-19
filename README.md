@@ -1,6 +1,6 @@
 # Tibame 機器學習
 
-#### Reduce Dimension@t-sne
+#### Reduce Dimension@t-SNE
 
 #### 2021/7/19 update by ChienMing Lin
 
